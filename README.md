@@ -1,5 +1,3 @@
-# PowerBI
-
 ## Data Analysis and Exploration Project
 
 # Overview
