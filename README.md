@@ -24,8 +24,10 @@ Data Importation and Transformation: The dataset was imported into Microsoft Vis
 The repository contains the following files:
 
 **Power BI Report:** The Power BI report file, which includes the visualizations and insights generated from the Tabular BI Semantic Model.
+
 **Tabular BI Semantic Model:** The files related to the Tabular BI Semantic Model, including the Visual Studio project and the Excel pivot table analysis.
-Usage
+
+# Usage
 To access the project files, simply navigate to the respective folders in the repository.
 
 # Acknowledgments
